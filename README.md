@@ -2,6 +2,7 @@ spring-framework-issues
 =======================
 
 Spark integrate with spring
+<<<<<<< HEAD
 
 To Run this Project perform the following steps:
  
@@ -63,3 +64,5 @@ db.input3.save(temp)
 6. Browse the url "http://localhost:8080/sp/"
 
 
+=======
+>>>>>>> 7180821643a21edd7bd742a1ff995ca3e6ea768d
